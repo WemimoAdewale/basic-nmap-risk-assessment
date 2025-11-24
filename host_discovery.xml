@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///C:/Program Files (x86)/Nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.97 scan initiated Mon Nov 24 12:41:05 2025 as: &quot;C:\\Program Files (x86)\\Nmap\\nmap.exe&quot; -sn -oA host_discovery 192.168.56.1 -->
+<nmaprun scanner="nmap" args="&quot;C:\\Program Files (x86)\\Nmap\\nmap.exe&quot; -sn -oA host_discovery 192.168.56.1" start="1763984465" startstr="Mon Nov 24 12:41:05 2025" version="7.97" xmloutputversion="1.05">
+<verbose level="0"/>
+<debugging level="0"/>
+<host><status state="up" reason="localhost-response" reason_ttl="0"/>
+<address addr="192.168.56.1" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+</host>
+<runstats><finished time="1763984466" timestr="Mon Nov 24 12:41:06 2025" summary="Nmap done at Mon Nov 24 12:41:06 2025; 1 IP address (1 host up) scanned in 0.87 seconds" elapsed="0.87" exit="success"/><hosts up="1" down="0" total="1"/>
+</runstats>
+</nmaprun>
