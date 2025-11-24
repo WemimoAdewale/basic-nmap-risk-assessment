@@ -1,4 +1,0 @@
-# Nmap 7.97 scan initiated Mon Nov 24 12:43:53 2025 as: "C:\\Program Files (x86)\\Nmap\\nmap.exe" -sV -oA service_version_scan 192.168.56.1
-Host: 192.168.56.1 ()	Status: Up
-Host: 192.168.56.1 ()	Ports: 135/open/tcp//msrpc//Microsoft Windows RPC/, 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/open/tcp//microsoft-ds?///, 1055/open/tcp//flexlm//FlexLM license manager/, 2179/open/tcp//vmrdp?///, 3306/open/tcp//mysql//MySQL (unauthorized)/	Ignored State: closed (994)
-# Nmap done at Mon Nov 24 12:44:16 2025 -- 1 IP address (1 host up) scanned in 22.40 seconds

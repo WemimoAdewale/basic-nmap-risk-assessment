@@ -1,3 +1,0 @@
-# Nmap 7.97 scan initiated Mon Nov 24 12:41:05 2025 as: "C:\\Program Files (x86)\\Nmap\\nmap.exe" -sn -oA host_discovery 192.168.56.1
-Host: 192.168.56.1 ()	Status: Up
-# Nmap done at Mon Nov 24 12:41:06 2025 -- 1 IP address (1 host up) scanned in 0.87 seconds
